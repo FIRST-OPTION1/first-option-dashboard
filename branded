@@ -1,0 +1,13 @@
+First Option Dashboard
+
+A secure, multilingual banking dashboard built for 1st Option LLC and Asset Control+. This modular platform empowers users with real-time investor tools, branded receipt generation, wallet onboarding flows, and international compliance alerts.
+
+Key Features:
+- 💼 Account summary and transaction history  
+- 📊 Investor dashboard with live charts and profit/loss tracking  
+- 🧾 Bilingual, legally compliant receipt generator with QR codes  
+- 🌍 Multilingual routing and international onboarding flows  
+- 🔐 JWT-secured backend with modular API architecture  
+- 🛡 Compliance-ready identity fields and legal disclaimers  
+
+Designed for scalability, trust, and global reach—this repo blends fintech precision with user-first design.
