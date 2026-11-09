@@ -16,7 +16,7 @@
 		"ghcr.io/cirolosapio/devcontainers-features/alpine-aws-cli:0": {},
 		"ghcr.io/cirolosapio/devcontainers-features/alpine-bash:0": {},
 		"ghcr.io/cirolosapio/devcontainers-features/alpine-bat:0": {},
-		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:1": {},
+		"ghcr.io/nikiforovall/devcontainer-features/dotnet-csharpier:2": {},
 		"ghcr.io/juan-ayala/devcontainer-features/aem-repo-tool:1": {},
 		"ghcr.io/juan-ayala/devcontainer-features/aem-sdk:1": {},
 		"ghcr.io/juan-ayala/devcontainer-features/aem-universal-editor-service:1": {},
